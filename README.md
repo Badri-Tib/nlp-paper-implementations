@@ -12,4 +12,4 @@ Each folder contains a notebook, results, and a README documenting differences f
 
 ## Stack
 
-PyTorch · HuggingFace Transformers · bert-base-uncased · RTX 2060 / Colab T4
+PyTorch · HuggingFace Transformers · bert-base-uncased · RTX 2060 / Google Colab T4
